@@ -5,4 +5,4 @@ this git demo
 3
 git tracks changes
 ggggg
-Creating a new branch is quick
+Creating a new branch is quick And simple
